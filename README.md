@@ -1,4 +1,4 @@
-# OPNsense-
+# OPNsense-中文手册
 OPNsense中文手册（验证翻译）
 
 ##OPNsense新版本手册——中文翻译版（经验证实用性）
